@@ -16,7 +16,7 @@ The purpose of this website is to:
 ## Technologies Used
 This website is built using:
 - **Frontend**: [React.js, HTML, CSS]
-- **Backend**: [Node.js, Express.js] (if applicable)
+- **Backend**: [Node.js, Sanity.js] (if applicable)
 - **Other Tools**: Add any other relevant tools/frameworks you used.
 
 ## Setup
